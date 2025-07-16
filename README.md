@@ -6,7 +6,7 @@ This project is part of my machine learning journey in building real-worl AI sys
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ Detect heart rate anomalies  
 ✅ Multi-feature prediction using:
@@ -21,7 +21,7 @@ This project is part of my machine learning journey in building real-worl AI sys
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 Source: [FitBit Fitness Tracker Dataset (Kaggle)](https://www.kaggle.com/datasets/arashnic/fitbit)
 
@@ -34,7 +34,7 @@ Data was cleaned, preprocessed, and transformed using StandardScaler. The follow
 
 ---
 
-## 🧠 Model Training
+## Model Training
 
 The model was trained using Scikit-learn. Key steps included:
 
@@ -48,7 +48,7 @@ Training was done in Google Colab, and the notebook is included in the repositor
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 dashboard_project/
 ├── dashboard.py
 ├── model.pkl 
@@ -60,7 +60,7 @@ dashboard_project/
 
 ---
 
-## 💻 How to Run Locally
+##  How to Run Locally
 
 ```bash
 # Clone the repo
